@@ -16,7 +16,7 @@ h3 {
 }
 
 #container {
-    background-color: #252617;
+    background-color: #82C9D9;
     width: 75%;
     margin: 20px auto;
     border: 4px solid #5A5B55;
@@ -39,7 +39,7 @@ nav li {
 
 nav li a {
     display: block;
-    background-color: #732F20;
+    background-color: #82C9D9;
     width: 200px;
     height: 50px;
     line-height: 50px;
@@ -54,7 +54,7 @@ nav li a {
 
 nav li a:hover {
     background-color: #3FBFB2;
-    color: #252617;
+    color: #D9185F;
     border: 6px solid #5A5B55;
 }
 
@@ -131,5 +131,4 @@ table {
 td, 
 tr {
     border: 6px double #732F20;
-   
 }
