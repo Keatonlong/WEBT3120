@@ -19,7 +19,7 @@ h1, h2, h3 {
 }
 
 nav {
-    background-color: #F2A2B1;
+    background-color: #4AB0D9;
     padding: 2px 0;
     text-align: center;
 }
@@ -38,7 +38,7 @@ nav li a {
     display: block;
     height: 40px;
     line-height: 40px;
-    background-color: #08A696;
+    background-color: #9ACDD9;
     color: #F2F2F2;
     text-decoration: none;
     font-size: 1.3em;
@@ -85,7 +85,7 @@ footer {
 
 
 .button:hover {
-    background-color: #F24171;
+    background-color: #9ACDD9;
     border-color: black;
 }
 
@@ -154,7 +154,7 @@ td {
     }
     
     nav li a {
-        background-color: #F2A2B1;
+        background-color: #9ACDD9;
         border: 0;
     }
 
@@ -163,7 +163,7 @@ td {
     }
 
     .col {
-        border: 2px solid #F24171;
+        border: 2px solid #9ACDD9;
         padding: 10px;
         margin: 10px;
         border-radius: 10px;
