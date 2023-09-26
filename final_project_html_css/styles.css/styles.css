@@ -2,6 +2,10 @@ body {
     background-color: #F24171;
 }
 
+P {
+    background-image: url("blue_swirl");
+}
+
 img {
     display: block;
     margin: 0 auto;
