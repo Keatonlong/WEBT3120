@@ -1,5 +1,13 @@
 body {
      background-color: #118CD9;
+     font-size: 18px;
+     font-family: 'Oswald', sans-serif;
+}
+
+video, audio {
+    display: block;
+    width: 75%;
+    margin: 20px auto;
 }
 
 img {
@@ -87,6 +95,12 @@ footer {
 .button:hover {
     background-color: #9ACDD9;
     border-color: black;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 75% ;
 }
 
 table {
