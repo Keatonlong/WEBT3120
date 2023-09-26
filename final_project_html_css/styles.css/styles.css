@@ -1,9 +1,8 @@
 body {
     background-color: #F24171;
-}
-
-P {
-    background-image: url("blue_swirl");
+    P {
+        background-image: url("blue_swirl");
+    }
 }
 
 img {
