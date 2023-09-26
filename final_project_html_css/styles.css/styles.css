@@ -1,5 +1,5 @@
 body {
-     background-color: #F24171;
+     background-color: #118CD9;
 }
 
 img {
@@ -47,7 +47,7 @@ nav li a {
 
 nav li a:hover {
     background-color: azure;
-    color: #F24171;
+    color: #118CD9;
     border-color: black ;
 }
 
@@ -57,7 +57,7 @@ main {
 
 .col {
     padding: 10px;
-    border-top: 2px solid #F24171;
+    border-top: 2px solid #118CD9;
 }
 
 footer {
@@ -79,7 +79,7 @@ footer {
     margin-top: 10px;
     padding: 10px;
     text-align:  center;
-    border: 4px solid #F24171;
+    border: 4px solid #118CD9;
     border-radius: 5px;
 }
 
@@ -108,7 +108,7 @@ td {
         width: 175px;
         margin: 0 5px;
         border-radius: 10px;
-        border: 2px solid #F24171;
+        border: 2px solid #4AB0D9;
     }
 
     main {
@@ -118,12 +118,12 @@ td {
     section, aside {
         padding: 10px;
         margin: 10px;
-        border: 2px solid #F24171;
+        border: 2px solid #4AB0D9;
         border-radius: 10px;
     }
 
     section {
-        width: 70%;
+        width: 65%;
     }
 
     aside {
@@ -131,7 +131,7 @@ td {
     }
 
     .col img {
-        width: 75%;
+        width: 70%;
     }
 
     .button {
@@ -143,7 +143,7 @@ td {
     }
 
     table img {
-        width: 100%;
+        width: 75%;
     }
 }
 
